@@ -3,7 +3,7 @@ const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Greedy Gorilla NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The Greedy Gorilla NFT Project aims to bring a reflection about how to find a balance in life!"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
+const welcome_p = 'The Greedy Gorilla NFT Project aims to bring a reflection about how to find a balance in life!';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
